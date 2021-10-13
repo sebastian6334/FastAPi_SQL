@@ -1,1 +1,3 @@
 Generic single-database configuration.
+
+Alembic nie działa, jest problem z importem 
